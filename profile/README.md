@@ -27,7 +27,7 @@ This mirrors the delivery posture used in partner-facing packets, including Lamb
 
 ## Public Entry Points
 
-- Public site: https://qbitos.github.io/uvspeed/
+- Public site: https://qbitos.ai
 - Program domain: https://qbitos.ai
 - Repositories: https://github.com/qbitOS?tab=repositories
 - Projects: https://github.com/orgs/qbitOS/projects
