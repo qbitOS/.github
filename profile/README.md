@@ -29,14 +29,9 @@ This mirrors the delivery posture used in partner-facing packets, including Lamb
 
 ### Funding and Program Alignment
 
-- [Lambda ($25K Grant Lane)](https://lambda.ai/)
-- [AWS GovCloud](https://aws.amazon.com/govcloud-us/)
-- [GitHub Developer Program](https://github.com/developers) and [GitHub Sponsors](https://github.com/sponsors)
-- [GitHub Fund](https://github.com/sponsors)
-- [Microsoft](https://www.microsoft.com/en-us/startups)
-- [IBM Quantum](https://quantum.ibm.com/) - 10 min/month reference; calibration equivalent: `$96/sec = $57,600`.
-  - Monthly usage (so far): `0.0 / 10.0 min` -> `[----------] 0%`
-  - Monthly spend (so far): `$0 / $57,600` -> `[----------] 0%`
+- [Lambda ($25K Grant Lane)](https://lambda.ai/) _ [AWS GovCloud](https://aws.amazon.com/govcloud-us/) _ [GitHub Dev Program](https://github.com/developers) _ [GitHub Sponsors](https://github.com/sponsors) _ [GitHub Fund](https://github.com/sponsors) _ [Microsoft Azure](https://azure.microsoft.com/) _ [IBM Quantum](https://quantum.ibm.com/).
+  - Monthly usage (so far): `1.2 / 10.0 min` -> `[#---------] 12%`
+  - Monthly spend (so far): `$6,912 / $57,600` -> `[#---------] 12%`
 
 Visual assets and partner mark images are planned for this section and will be added in a later pass.
 
