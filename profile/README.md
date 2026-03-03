@@ -51,6 +51,23 @@ Visual assets and partner mark images are planned for this section and will be a
 - Projects: https://github.com/orgs/qbitOS/projects
 - Packages: https://github.com/orgs/qbitOS/packages
 
+## Active Lanes
+
+- Core codec lane (`.qbit`, `.qmd.qbit`, `.qpack.qbit`, `uvcmp`)
+- Spatial lane (`qspatial` on `.qpack.qbit` for image/audio/video/point-cloud)
+- Optional integration lane (RNDR/OTOY, Foundry, Griptape AI)
+
+## Dependency Policy
+
+- Core path is local-first and does not require external provider integrations.
+- Partner integrations are optional lanes and are documented as non-blocking for baseline operation.
+
+## Evidence-First Benchmark Policy
+
+- Performance and reliability claims are tied to reproducible artifacts.
+- Benchmarks are expected to include mode labeling (`raw`, `compressed`, `compressed+encrypted`) and stage timing breakdowns.
+- Corpus and progress records remain the source of truth for public status updates.
+
 ## Responsible Disclosure and Partner Requests
 
 For grant bodies, enterprise teams, and research institutions requiring scoped technical documentation:
