@@ -6,6 +6,8 @@ Public profile mode: this organization overview intentionally shares high-level 
 
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-Member-2ea44f?logo=github)](https://github.com/developers)
 
+[GitHub Dev Program](https://github.com/developers) * [Cloudflare](https://www.cloudflare.com/) * [IBM Quantum](https://quantum.ibm.com/)
+
 ## Mission
 
 qbitOS.ai is a multi-lane software and research program focused on:
