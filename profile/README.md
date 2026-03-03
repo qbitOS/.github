@@ -6,7 +6,9 @@ Public profile mode: this organization overview intentionally shares high-level 
 
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-Member-2ea44f?logo=github)](https://github.com/developers)
 
-[GitHub Dev Program](https://github.com/developers) * [Cloudflare](https://www.cloudflare.com/) * [IBM Quantum](https://quantum.ibm.com/)
+[![GitHub Dev Program](https://img.shields.io/badge/GitHub_Dev_Program-Partner-2ea44f?logo=github)](https://github.com/developers)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-Partner-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-Partner-052FAD?logo=ibm&logoColor=white)](https://quantum.ibm.com/)
 
 ## Mission
 
