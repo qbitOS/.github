@@ -30,7 +30,7 @@ This mirrors the delivery posture used in partner-facing packets, including Lamb
 ### Funding and Program Alignment
 
 - [Lambda ($25K Grant Lane)](https://lambda.ai/) * [AWS GovCloud](https://aws.amazon.com/govcloud-us/)
-- [GitHub Dev Program](https://github.com/developers) * [GitHub Sponsors](https://github.com/sponsors) * [GitHub Fund](https://github.com/sponsors) * [Microsoft Azure](https://azure.microsoft.com/)
+- [GitHub Dev Program](https://github.com/developers) * [Cloudflare](https://www.cloudflare.com/) * [IBM Quantum](https://quantum.ibm.com/) * [GitHub Sponsors](https://github.com/sponsors) * [GitHub Fund](https://github.com/sponsors) * [Microsoft Azure](https://azure.microsoft.com/)
 - [IBM Quantum](https://quantum.ibm.com/).
   - Monthly usage (so far): `1.2 / 10.0 min` -> `[#---------] 12%`
   - Monthly spend (so far): `$6,912 / $57,600` -> `[#---------] 12%`
