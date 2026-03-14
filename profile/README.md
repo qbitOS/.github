@@ -13,8 +13,6 @@ Working towards partner status with...
 [![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-Partner-052FAD?logo=ibm&logoColor=white)](https://quantum.ibm.com/)
 [![Mistral Ambassadors](https://img.shields.io/badge/Mistral_Ambassadors-Applying-7f56d9)](https://docs.mistral.ai/ambassadors)
 
-Apply now: [Mistral AI Ambassador program](https://docs.mistral.ai/ambassadors)
-
 ## Mission
 
 qbitOS.ai is a multi-lane software and research program focused on:
