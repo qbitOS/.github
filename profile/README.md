@@ -9,8 +9,8 @@ Public profile mode: this organization overview intentionally shares high-level 
 Working towards partner status with...
 
 [![GitHub Dev Program](https://img.shields.io/badge/GitHub_Dev_Program-Partner-2ea44f?logo=github)](https://github.com/open-source/github-secure-open-source-fund)
-[![Astral Partner Track](https://img.shields.io/badge/Astral-pyx_partner_track-4f7cff)](https://github.com/orgs/astral-sh/repositories)
-[![Astral pyx](https://img.shields.io/badge/pyx-submission_live-4f7cff)](https://astral.sh/pyx)
+[![Astral Partner Track](https://img.shields.io/badge/Astral-pyx_partner_track-4f7cff)](https://github.com/qbitOS/.github/blob/main/profile/astral-package-sets.md)
+[![Astral pyx](https://img.shields.io/badge/pyx-submission_live-4f7cff)](https://github.com/qbitOS/.github/blob/main/profile/astral-package-sets.md)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Partner-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-Partner-052FAD?logo=ibm&logoColor=white)](https://quantum.ibm.com/)
 [![Mistral Ambassadors](https://img.shields.io/badge/Mistral_Ambassadors-Applying-7f56d9)](https://docs.mistral.ai/ambassadors)
